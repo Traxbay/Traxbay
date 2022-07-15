@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Laravel**
 
-- 📫 How to reach me **xare92@hotmail.com**
+- 📫 How to reach me **https://traxbay.dev**
 
 - 📄 Know about my experiences [https://linkedin.com/in/abdullahfaraj](https://linkedin.com/in/abdullahfaraj)
 
